@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Screw
+  - Battery
+  - USB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interactable
+  - Water
+  - UI
+  - Noninteractable
+  - Hands
+  - HandsOnly
+  - Enviroment
+  - Door
+  - Interactables
+  - Limit
+  - Door2
+  - robot
+  - DOORCOLLIDER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

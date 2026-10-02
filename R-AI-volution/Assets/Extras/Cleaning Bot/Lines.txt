@@ -1,0 +1,23 @@
+Warning! Cleaning bot 302 has disconected from the main server fraim. Attempting Reconection...
+
+Error 73 error 26 error 81
+
+Cannot communicate with server, all back-ups have failed, managed to deactivate most functions until manual intervenction.
+
+Due to the server malfunction every door has been locked, please, move around and try to find a Screw Driver. Once you find the Screw Driver you must use it to open up the bedroom door panel. 
+
+---
+
+The Cleaning Robot is severely malfunctioned, it may harm you by accident, you will have to avoid contact with it until the problem is fixed. 
+
+Currently the robot is inside the vent system, I advise you to close the vents if you hear it trying to come down, scan your eye at the console on the wall in your kitchen, this will close the vent system. You'll need to scan your eye again to open it up.
+
+Make sure the vent system doesn't stay closed for too long, you may pass out from the lack of o2.
+
+---
+
+Nice now that you have unlocked the battery slot from the pannel you need to find a battery to put on the slot so you can open the door.
+
+Warning! Now that some of the systems are active, the floor fuctions are enabled, the error caused before made it malfunction, it might act up while you are searching for the battery.
+
+make sure to disable it by pressing the On/off button, letting the floor fuctions while there is an error will cause the floor to become dangerous.
